@@ -11,13 +11,12 @@ The Private Notes Frontend is a Next.js application designed to interact with th
 ### Getting Started
 1. Clone the Repository:
 ```bash
-git clone <repo-url>
+git clone git clone https://github.com/devlongs/private-notes-frontend.git
 cd private-notes-frontend
 ```
 
-2. CInstall Dependencies:
+2. Install Dependencies:
 ```bash
-git clone https://github.com/devlongs/private-notes-frontend.git
 npm install
 ```
 
